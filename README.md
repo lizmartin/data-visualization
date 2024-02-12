@@ -1,6 +1,6 @@
-UO Data Visualization Bootcamp | Module 5 Matplotlib Challenge
+**UO Data Visualization Bootcamp | Module 5 Matplotlib Challenge**
 
-What good is data without a good plot to tell the story?
+***What good is data without a good plot to tell the story?***
 
 In this assignment, you’ll apply what you've learned about Matplotlib to a real-world situation and dataset.
 
@@ -16,7 +16,7 @@ Download the following files to help you get started:
 
 Module 5 Challenge filesLinks to an external site.
 
-Instructions
+**Instructions**
 This assignment is broken down into the following tasks:
 
 Prepare the data.
@@ -33,12 +33,9 @@ Calculate correlation and regression.
 
 Submit your final analysis.
 
-
-
-# Pymaceuticals Inc.
----
-
-### Analysis
+**Analysis**
 -- Capomulin and Ramicane saw smaller final tumors by volumes. Ramicane saw the smallest. 
+
 -- Results between male and female mice was fairly evenly split. 
+
 -- There was a strong positive correlation between the volume of the tumor and the size (weight) of the mouse. 
